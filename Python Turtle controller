@@ -1,0 +1,11 @@
+A basic Python Turtle controller using keyboard inputs (WASD keys).
+This program allows the user to control a turtle object on the screen using the keyboard:
+
+    W to move forward
+
+    S to move backward
+
+    A to turn left
+
+    D to turn right
+    It also includes a clear screen feature using the clear() method. Perfect for learning turtle graphics and basic event-driven programming!
